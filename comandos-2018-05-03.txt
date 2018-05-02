@@ -1,0 +1,55 @@
+    1  git
+    2  git --version
+    3  pwd
+    4  clear
+    5  git clone https://github.com/masmangan/bookish-octo-adventure.git
+    6  ls
+    7  pwd
+    8  ls
+    9  ll
+   10  clear
+   11  ls
+   12  cd bookish-octo-adventure/
+   13  ls
+   14  ll
+   15  ls -la
+   16  cd bookish-octo-adventure/
+   17  ls
+   18  ls -l
+   19  cd exemplo02/
+   20  ls
+   21  la -la
+   22  ls -la
+   23  cd ..
+   24  ls -la
+   25  cat .gitignore 
+   26  clear
+   27  git status
+   28  pwd
+   29  git add exemplo02/
+   30  git status
+   31  git commit -m "Criacao do projeto no Eclipse"
+   32  git config --global user.email "marco.mangan@gmail.com"
+   33  git config --global user.name "Marco Mangan"
+   34  clear
+   35  ls
+   36  history
+   37  git push
+   38  clear
+   39  ls
+   40  git status
+   41  git commit -m "Criacao do projeto no Eclipse"
+   42  clear
+   43  ls
+   44  git push
+   45  history
+   46  git status
+   47  git add --all
+   48  git staus
+   49  git status
+   50  git commit -m "#1"
+   51  clear
+   52  ls
+   53  git push
+   54  cat history > comandos-2018-05-03.txt
+   55  history > comandos-2018-05-03.txt
